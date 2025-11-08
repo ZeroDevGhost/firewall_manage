@@ -10,6 +10,7 @@
 | 删除 IP 规则             | `./firewall_manage.sh remove ip 1.1.1.1`      |
 | 放行服务（如 http）      | `./firewall_manage.sh add service http`       |
 | 删除服务规则             | `./firewall_manage.sh remove service https`   |
+| 丢弃单个 IP 或网段       | `./firewall_manage.sh drop 1.1.1.0/24`   |
 | 添加端口转发             | `./firewall_manage.sh add forward 8080:192.168.1.100:80` |
 | 删除端口转发             | `./firewall_manage.sh remove forward 8080:192.168.1.100:80` |
 | 查看所有规则             | `./firewall_manage.sh list`                   |
