@@ -1,6 +1,12 @@
 # 下载
-```curl -LO https://github.com/ZeroDevGhost/firewall_manage/releases/download/v0.0.1/firewall_manage.sh && chmod +x firewall_manage.sh```
-```wget https://github.com/ZeroDevGhost/firewall_manage/releases/download/v0.0.1/firewall_manage.sh && chmod +x firewall_manage.sh```
+* One-click installation script
+```shell
+curl -LO https://github.com/ZeroDevGhost/firewall_manage/releases/download/v0.0.1/firewall_manage.sh && chmod +x firewall_manage.sh
+```
+
+```shell
+wget https://github.com/ZeroDevGhost/firewall_manage/releases/download/v0.0.1/firewall_manage.sh && chmod +x firewall_manage.sh`
+```
 
 # 防火墙管理命令示例
 
