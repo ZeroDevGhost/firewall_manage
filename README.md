@@ -1,5 +1,5 @@
 # 下载
-* One-click installation script
+
 ```shell
 curl -LO https://github.com/ZeroDevGhost/firewall_manage/releases/download/v0.0.1/firewall_manage.sh && chmod +x firewall_manage.sh
 ```
